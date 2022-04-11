@@ -1,0 +1,46 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:  white;
+}
+body{
+    background-image: url(../images//cool-background.png);
+    background-color: lightgray;
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: white;
+}
+#top{
+    text-align: center;
+    color: white;
+}
+#bottom{
+    text-align: center;
+    color: white;
+}
+.externalLink{
+    color: white;
+}
+.image{
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer{
+    color: white;
+    text-align: center;
+
+}
+.h3{
+    color: white;
+}
+.resumeSections{
+    text-decoration: underline;
+    color: white;
+}
+.photoCredit{
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
